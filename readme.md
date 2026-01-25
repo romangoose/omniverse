@@ -1,8 +1,10 @@
 # **Омниверс:** **всё, тьма и сердце**
 
-ver 2025:20260125
+**ver 2025:20260125**
 
-[googledoc](https://docs.google.com/document/d/1zgEJFR-g-QbSRD4MA85zAxxKBIVppt1TdbatkgIOn4U/edit?usp=drive_link)
+---
+
+[Форматированный документ с иллюстрациями (googledoc)](https://docs.google.com/document/d/1zgEJFR-g-QbSRD4MA85zAxxKBIVppt1TdbatkgIOn4U/edit?usp=drive_link)
 
 [https://t.me/omniverseheart](https://t.me/omniverseheart)
 
@@ -10,7 +12,7 @@ ver 2025:20260125
 
 ---
 
-**Произведение (текст и иллюстрации) публикуется на условиях лицензии [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**
+**Произведение (текст и иллюстрации) публикуется на условиях лицензии [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en)**
 
 **Вы можете свободно использовать его**: воспроизводить, копировать, распространять любым способом; адаптировать и создавать на его основе свои производные работы.
 
@@ -24,7 +26,7 @@ ver 2025:20260125
 
 Не создавайте юридических или технических препятствий для доступа других лиц к произведению.
 
-**Важно:** юридическую силу имеет только полный оригинальный текст лицензии: [https://creativecommons.org/licenses/by-nc/4.0/legalcode.en](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en)
+**Важно:** юридическую силу имеет только полный оригинальный текст лицензии.
 
 ---
 
