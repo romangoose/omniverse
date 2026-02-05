@@ -8,7 +8,7 @@
 
 Форматированный документ с иллюстрациями: [googledoc](https://docs.google.com/document/d/1zgEJFR-g-QbSRD4MA85zAxxKBIVppt1TdbatkgIOn4U/edit?usp=drive_link)
 
-Книга на Флибусте (tor): [858813](http://flibustaongezhld6dibs2dps6vm4nvqg2kp7vgowbu76tzopgnhazqd.onion/b/858813)
+Книга на Флибусте (.onion): [858813](http://flibustaongezhld6dibs2dps6vm4nvqg2kp7vgowbu76tzopgnhazqd.onion/b/858813)
 
 Канал Telegram: [https://t.me/omniverseheart](https://t.me/omniverseheart)
 
